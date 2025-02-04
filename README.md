@@ -3,6 +3,12 @@
 <p><i>Aspiring Software Engineer | Problem Solver</i></p>
 
 ## 💫 About Me:
+**💼 CODEHOP INTERFUSION PVT LIMITED - SOFTWARE ENGINEER INTERN (April 2024 - Dec. 2024):** <br>
+As a Software Engineer Intern, I have 8 months of experience
+
+1) Achieved significant improvement in backend performance for SMSuite Project by utilizing SOLID principles, API design, and implementation skills.<br>
+2) Led a debugging initiative that resolved over 260 bugs, resulting in a notable increase in software stability and performance.<br>
+3) Developed comprehensive JUnit test cases for over 40 APIs, ensuring robust, error-free functionality across SMSuite Project by leveraging Java, Spring Boot, and JUnit.<br><br>
 🔭 Currently working on projects related to Backend Development<br>🌱 Learning Full Stack Development<br>💼 Looking for new opportunities in Software Engineering<br>💬 Ask me about anything related to Java, SQL, Spring Boot and Web Application Development
 
 
